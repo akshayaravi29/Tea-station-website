@@ -253,7 +253,7 @@ p{
     min-height: 100vh;
     
     background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
-        url("tea\ home.jpg")center/cover no-repeat fixed;
+        url("home.jpg")center/cover no-repeat fixed;
     position: relative;
     /*animation*/
     overflow-x: hidden;
